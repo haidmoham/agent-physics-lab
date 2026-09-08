@@ -25,7 +25,7 @@
 
 ## Learning and scientific scope
 
-- Preserve the user's ownership of hypotheses, model design, experiments, and interpretation. Provide plumbing and explanations at the next useful implementation step.
+- Keep hypotheses, model design, experiments, and interpretation with the user. Provide supporting plumbing and explanations at the next useful implementation step.
 - State whether a result is measured, inferred, or unknown when that distinction matters.
 - Preserve visible model limitations. The current apparatus uses a sliding point-mass model with Coulomb friction and omits rotational dynamics.
 - Do not turn a successful demo run into a broader physical claim without an experiment or supporting evidence.
